@@ -55,6 +55,10 @@ body{
     margin:0% 8% 0% 8%;
     padding-left:3%;
     box-shadow: 10px 10px 20px lightslategray;
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(66, 13, 46),rgb(236, 127, 63));
+    border-image-slice: 1;
+    
 }
 .link-web{
     color:white;

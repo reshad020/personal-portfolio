@@ -1,5 +1,6 @@
 h1{
     font-family: 'Maven Pro', sans-serif;
+    font-size:50px;
 }
 .orange-color{
     color:crimson;
@@ -13,5 +14,12 @@ section{
 }
 .half-width{
     width:50%;
-    padding-left:10%;
+    padding-left:5%;
+}
+.button-link{
+    color:whitesmoke;
+    text-decoration:none;
+    padding:5px 20px;
+    background-color: crimson;
+    border-radius: 4px;
 }

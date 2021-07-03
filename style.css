@@ -8,7 +8,7 @@ body{
 .orange-color{
     color:crimson;
 }
-section{
+.flexible-sec{
     display:flex;
     background-position: center;
     background-size: cover;

@@ -49,3 +49,20 @@ body{
     background-image: url(fdreambig.png);
     width:100%;
 }
+.half-width-exp{
+    width:50%;
+    border-radius:10px;
+    margin:0% 8% 0% 8%;
+    padding-left:3%;
+    box-shadow: 10px 10px 20px lightslategray;
+}
+.link-web{
+    color:white;
+    text-decoration: none;
+    background-image: linear-gradient(orange,crimson);
+    padding:5px 10px;
+    border-radius: 5px;
+}
+.exp-head{
+    color:orangered;
+}

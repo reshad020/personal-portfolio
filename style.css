@@ -2,5 +2,11 @@ h1{
     font-family: 'Maven Pro', sans-serif;
 }
 .orange-color{
-    color:orange;
+    color:crimson;
+}
+.img-edit{
+    height:40%;
+    width:40%;
+    border-radius: 50%;
+    
 }

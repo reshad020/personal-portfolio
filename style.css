@@ -12,11 +12,17 @@ section{
     display:flex;
     background-position: center;
     background-size: cover;
+    margin-bottom:150px;
 }
 .img-edit{
     
     width:70%;
     border-radius: 50%;
+}
+.img-edit2{
+    
+    width:80%;
+    border-radius:50%;
 }
 .half-width{
     width:50%;

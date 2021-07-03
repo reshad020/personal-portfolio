@@ -20,6 +20,8 @@ section{
     color:whitesmoke;
     text-decoration:none;
     padding:5px 20px;
-    background-color: crimson;
+    background-image: linear-gradient(crimson,black);
+    font-family: 'Maven Pro', sans-serif;
+    font-weight:600;
     border-radius: 4px;
 }

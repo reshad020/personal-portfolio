@@ -15,7 +15,7 @@ section{
     margin-bottom:150px;
 }
 .img-edit{
-    
+    margin-top:10px;
     width:70%;
     border-radius: 50%;
 }
@@ -40,4 +40,8 @@ section{
 .top-banner{
     background-image: url(sfinal.png);
     width:100%;
+}
+.dream{
+    color:lightcoral;
+    
 }

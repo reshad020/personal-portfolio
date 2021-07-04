@@ -1,6 +1,6 @@
 h1{
     font-family: 'Maven Pro', sans-serif;
-    font-size:50px;
+    font-size:300%;
 }
 body{
     margin:0;
@@ -15,7 +15,7 @@ body{
     margin-bottom:150px;
 }
 .img-edit{
-    margin-top:10px;
+    margin-top:10%;
     width:70%;
     border-radius: 50%;
 }
@@ -69,4 +69,14 @@ body{
 }
 .exp-head{
     color:orangered;
+}
+.photo-width{
+    box-shadow: 10px 10px 20px lightslategray;
+    opacity:0.5;
+    width:40%;
+    margin:5% 30% 5% 30%;
+    
+}
+.photo-width:hover{
+    opacity:1;
 }

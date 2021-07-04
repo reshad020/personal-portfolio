@@ -71,7 +71,7 @@ body{
     color:orangered;
 }
 .photo-width{
-    box-shadow: 10px 10px 20px lightslategray;
+    box-shadow: 15px 15px 30px gray;
     opacity:0.5;
     width:40%;
     margin:5% 30% 5% 30%;
